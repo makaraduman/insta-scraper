@@ -26,7 +26,7 @@ git clone https://github.com/makaraduman/insta-scraper.git
 cd insta-scraper
 
 2. Create a Virtual Environment
-python3 -m venv venv
+python -m venv venv
 source venv/bin/activate
 
 3. Install Dependencies
