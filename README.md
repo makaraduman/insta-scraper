@@ -1,4 +1,4 @@
-# 📸 Enhanced Instagram Scraper
+# Enhanced Instagram Scraper
 
 This project combines **Playwright** and **Instaloader** to scrape Instagram post metadata for academic research and data analysis. It simulates human login through a browser using Playwright, then reuses the authenticated session to power Instaloader — enabling large-scale, reliable scraping.
 
