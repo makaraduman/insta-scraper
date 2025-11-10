@@ -22,7 +22,7 @@ This project combines **Playwright** and **Instaloader** to scrape Instagram pos
 ### 1. Clone the Repo
 
 ```bash
-git clone https://github.com/yourusername/insta-scraper.git
+git clone https://github.com/makaraduman/insta-scraper.git
 cd insta-scraper
 
 2. Create a Virtual Environment
